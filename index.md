@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Welcome to Arjun Balaji's home page.... 
 ---
 
